@@ -1,0 +1,11 @@
+
+
+	CERT-DEV			CERT-DIST
+
+	UUIDs Devices		UUID-Adhoc
+
+	Bundle ID
+	com.leonbaird.*		com.leonbaird.app
+
+	Provisional Profile
+	Prov-DEV			Prof-DIST

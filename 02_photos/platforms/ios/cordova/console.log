@@ -1,0 +1,423 @@
+2015-10-26 15:25:42.261 Photos[21436:3905820] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Data/Application/3878900F-ECF7-404A-84FD-6F09E0AC234A/Library/Cookies/com.leonbaird.photos.binarycookies
+2015-10-26 15:25:42.410 Photos[21436:3905820] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 15:25:42.411 Photos[21436:3905820] Multi-tasking -> Device: YES, App: YES
+2015-10-26 15:25:42.413 Photos[21436:3905820] Unlimited access to network resources
+2015-10-26 15:25:42.416 Photos[21436:3905820] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 15:25:42.943 Photos[21436:3905820] Resetting plugins due to page load.
+2015-10-26 15:25:43.005 Photos[21436:3906092] App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
+2015-10-26 15:25:43.180 Photos[21436:3905820] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/1241883B-96A0-4301-A965-D08AA41AC3FA/Photos.app/www/index.html
+2015-10-26 15:26:55.789 Photos[21500:3909603] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Data/Application/0A14EEDC-2FE6-4975-BC66-631FF61104D5/Library/Cookies/com.leonbaird.photos.binarycookies
+2015-10-26 15:26:55.853 Photos[21500:3909603] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 15:26:55.853 Photos[21500:3909603] Multi-tasking -> Device: YES, App: YES
+2015-10-26 15:26:55.855 Photos[21500:3909603] Unlimited access to network resources
+2015-10-26 15:26:55.858 Photos[21500:3909603] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 15:26:55.992 Photos[21500:3909603] Resetting plugins due to page load.
+2015-10-26 15:26:56.013 Photos[21500:3909628] App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
+2015-10-26 15:26:56.030 Photos[21500:3909603] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/DA8AA9BC-D1BF-47C0-9920-417C32949E16/Photos.app/www/index.html
+2015-10-26 15:29:05.606 Photos[21500:3909603] Resetting plugins due to page load.
+2015-10-26 15:29:05.652 Photos[21500:3909603] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/DA8AA9BC-D1BF-47C0-9920-417C32949E16/Photos.app/www/index.html
+2015-10-26 15:29:08.777 Photos[21500:3909603] Resetting plugins due to page load.
+2015-10-26 15:29:08.812 Photos[21500:3909603] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/DA8AA9BC-D1BF-47C0-9920-417C32949E16/Photos.app/www/index.html
+2015-10-26 15:31:05.223 Photos[21500:3909603] Resetting plugins due to page load.
+2015-10-26 15:31:05.254 Photos[21500:3909603] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/DA8AA9BC-D1BF-47C0-9920-417C32949E16/Photos.app/www/index.html
+2015-10-26 15:31:23.237 Photos[21539:3924144] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Data/Application/1E80C907-5042-452C-9092-96ED898C1D37/Library/Cookies/com.leonbaird.photos.binarycookies
+2015-10-26 15:31:23.303 Photos[21539:3924144] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 15:31:23.303 Photos[21539:3924144] Multi-tasking -> Device: YES, App: YES
+2015-10-26 15:31:23.305 Photos[21539:3924144] Unlimited access to network resources
+2015-10-26 15:31:23.308 Photos[21539:3924144] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 15:31:23.444 Photos[21539:3924144] Resetting plugins due to page load.
+2015-10-26 15:31:23.468 Photos[21539:3924226] App Transport Security has blocked a cleartext HTTP (http://) resource load since it is insecure. Temporary exceptions can be configured via your app's Info.plist file.
+2015-10-26 15:31:23.486 Photos[21539:3924144] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/F0A25888-5A93-4A11-9B37-07F9D241F20A/Photos.app/www/index.html
+2015-10-26 15:31:43.788 Photos[21539:3924144] Resetting plugins due to page load.
+2015-10-26 15:31:43.828 Photos[21539:3924144] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/F0A25888-5A93-4A11-9B37-07F9D241F20A/Photos.app/www/index.html
+2015-10-26 15:35:09.717 Photos[21539:3924144] CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:09.718 Photos[21539:3924144] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:11.576 Photos[21539:3924144] CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:11.576 Photos[21539:3924144] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:14.321 Photos[21539:3924144] CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:14.321 Photos[21539:3924144] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:17.467 Photos[21539:3924144] CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:17.467 Photos[21539:3924144] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:39.066 Photos[21539:3924144] CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:35:39.067 Photos[21539:3924144] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:37:22.598 Photos[21539:3924144] CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:37:22.598 Photos[21539:3924144] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:37:24.375 Photos[21539:3924144] CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:37:24.375 Photos[21539:3924144] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-10-26 15:51:45.808 Photos[21595:3986218] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Data/Application/52B5B972-E533-4ED0-9573-8F3424E7A4C2/Library/Cookies/com.leonbaird.photos.binarycookies
+2015-10-26 15:51:45.867 Photos[21595:3986218] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 15:51:45.868 Photos[21595:3986218] Multi-tasking -> Device: YES, App: YES
+2015-10-26 15:51:45.870 Photos[21595:3986218] Unlimited access to network resources
+2015-10-26 15:51:45.873 Photos[21595:3986218] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 15:51:45.993 Photos[21595:3986218] Resetting plugins due to page load.
+2015-10-26 15:51:46.033 Photos[21595:3986218] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/8D0C3010-23E7-46D5-B9B4-2F6FCE5954FC/Photos.app/www/index.html
+2015-10-26 15:52:00.128 Photos[21595:3986218] Resetting plugins due to page load.
+2015-10-26 15:52:00.160 Photos[21595:3986218] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/8D0C3010-23E7-46D5-B9B4-2F6FCE5954FC/Photos.app/www/index.html
+2015-10-26 15:53:02.346 Photos[21634:3994844] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Data/Application/A5C97953-22E3-4B98-BDA3-AF19782B1131/Library/Cookies/com.leonbaird.photos.binarycookies
+2015-10-26 15:53:02.405 Photos[21634:3994844] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 15:53:02.405 Photos[21634:3994844] Multi-tasking -> Device: YES, App: YES
+2015-10-26 15:53:02.407 Photos[21634:3994844] Unlimited access to network resources
+2015-10-26 15:53:02.410 Photos[21634:3994844] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 15:53:02.532 Photos[21634:3994844] Resetting plugins due to page load.
+2015-10-26 15:53:02.572 Photos[21634:3994844] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/7A3CA299-2F62-4F82-A9A4-ADE2424FA3F9/Photos.app/www/index.html
+2015-10-26 15:53:13.296 Photos[21634:3994844] Resetting plugins due to page load.
+2015-10-26 15:53:13.331 Photos[21634:3994844] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/7A3CA299-2F62-4F82-A9A4-ADE2424FA3F9/Photos.app/www/index.html
+2015-10-26 15:53:18.020 Photos[21634:3994844] THREAD WARNING: ['Notification'] took '14.285889' ms. Plugin should use a background thread.
+2015-10-26 15:53:34.017 Photos[21634:3994844] THREAD WARNING: ['Notification'] took '10.143066' ms. Plugin should use a background thread.
+2015-10-26 16:09:20.998 Photos[21693:4042795] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Data/Application/E21C276D-0293-45AD-B838-F5D43C02038A/Library/Cookies/com.leonbaird.photos.binarycookies
+2015-10-26 16:09:21.054 Photos[21693:4042795] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 16:09:21.055 Photos[21693:4042795] Multi-tasking -> Device: YES, App: YES
+2015-10-26 16:09:21.058 Photos[21693:4042795] Unlimited access to network resources
+2015-10-26 16:09:21.061 Photos[21693:4042795] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 16:09:21.180 Photos[21693:4042795] Resetting plugins due to page load.
+2015-10-26 16:09:21.224 Photos[21693:4042795] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/4179DB7D-02C2-4770-A0AA-B28B185BDC54/Photos.app/www/index.html
+2015-10-26 16:11:28.399 Photos[21693:4042795] Resetting plugins due to page load.
+2015-10-26 16:11:28.432 Photos[21693:4042795] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/4179DB7D-02C2-4770-A0AA-B28B185BDC54/Photos.app/www/index.html
+2015-10-26 16:11:31.686 Photos[21693:4042795] THREAD WARNING: ['Notification'] took '14.901855' ms. Plugin should use a background thread.
+2015-10-26 16:11:41.259 Photos[21693:4044909] Camera.getPicture: source type 1 not available.
+2015-10-26 16:11:51.825 Photos[21693:4044909] Camera.getPicture: source type 1 not available.
+2015-10-26 16:12:02.662 Photos[21693:4044909] Camera.getPicture: source type 1 not available.
+2015-10-26 16:12:06.681 Photos[21693:4044909] Camera.getPicture: source type 1 not available.
+2015-10-26 16:12:10.648 Photos[21693:4044909] Camera.getPicture: source type 1 not available.
+2015-10-26 16:12:13.559 Photos[21693:4044909] Camera.getPicture: source type 1 not available.
+2015-10-26 16:14:04.224 Photos[21693:4049550] Camera.getPicture: source type 1 not available.
+2015-10-26 16:14:07.030 Photos[21693:4049550] Camera.getPicture: source type 1 not available.
+2015-10-26 16:14:10.382 Photos[21693:4049550] Camera.getPicture: source type 1 not available.
+2015-10-26 16:15:10.585 Photos[21732:4055619] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Data/Application/4664E290-A604-4FB5-AD32-475B8E230DC1/Library/Cookies/com.leonbaird.photos.binarycookies
+2015-10-26 16:15:10.629 Photos[21732:4055619] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 16:15:10.630 Photos[21732:4055619] Multi-tasking -> Device: YES, App: YES
+2015-10-26 16:15:10.631 Photos[21732:4055619] Unlimited access to network resources
+2015-10-26 16:15:10.634 Photos[21732:4055619] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 16:15:10.709 Photos[21732:4055619] Resetting plugins due to page load.
+2015-10-26 16:15:10.743 Photos[21732:4055619] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/BFBAFFEA-E212-424A-B7FB-20A0E5F53BA7/Photos.app/www/index.html
+2015-10-26 16:16:42.652 Photos[21732:4055619] Resetting plugins due to page load.
+2015-10-26 16:16:42.681 Photos[21732:4055619] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/BFBAFFEA-E212-424A-B7FB-20A0E5F53BA7/Photos.app/www/index.html
+2015-10-26 16:16:45.090 Photos[21732:4055619] THREAD WARNING: ['Notification'] took '13.700195' ms. Plugin should use a background thread.
+2015-10-26 16:16:48.354 Photos[21732:4057113] Camera.getPicture: source type 1 not available.
+2015-10-26 16:17:18.889 Photos[21732:4055619] THREAD WARNING: ['Notification'] took '10.937256' ms. Plugin should use a background thread.
+2015-10-26 16:22:59.992 Photos[21771:4075154] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 16:22:59.993 Photos[21771:4075154] Multi-tasking -> Device: YES, App: YES
+2015-10-26 16:22:59.995 Photos[21771:4075154] Unlimited access to network resources
+2015-10-26 16:22:59.998 Photos[21771:4075154] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 16:23:00.164 Photos[21771:4075154] Resetting plugins due to page load.
+2015-10-26 16:23:00.203 Photos[21771:4075154] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/837D3390-D088-440F-AD3F-D88199C8414E/Photos.app/www/index.html
+2015-10-26 16:23:14.170 Photos[21771:4075154] Resetting plugins due to page load.
+2015-10-26 16:23:14.202 Photos[21771:4075154] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/837D3390-D088-440F-AD3F-D88199C8414E/Photos.app/www/index.html
+2015-10-26 16:23:16.220 Photos[21771:4075154] THREAD WARNING: ['Notification'] took '13.764160' ms. Plugin should use a background thread.
+2015-10-26 16:24:04.982 Photos[21817:4082374] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 16:24:04.983 Photos[21817:4082374] Multi-tasking -> Device: YES, App: YES
+2015-10-26 16:24:04.985 Photos[21817:4082374] Unlimited access to network resources
+2015-10-26 16:24:04.988 Photos[21817:4082374] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 16:24:05.095 Photos[21817:4082374] Resetting plugins due to page load.
+2015-10-26 16:24:05.130 Photos[21817:4082374] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/AC0EA618-796F-4721-B273-E9FC343AA74A/Photos.app/www/index.html
+2015-10-26 16:24:22.637 Photos[21817:4082374] THREAD WARNING: ['Notification'] took '13.898682' ms. Plugin should use a background thread.
+2015-10-26 16:29:10.959 Photos[21856:4090237] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 16:29:10.960 Photos[21856:4090237] Multi-tasking -> Device: YES, App: YES
+2015-10-26 16:29:10.961 Photos[21856:4090237] Unlimited access to network resources
+2015-10-26 16:29:10.964 Photos[21856:4090237] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 16:29:11.066 Photos[21856:4090237] Resetting plugins due to page load.
+2015-10-26 16:29:11.103 Photos[21856:4090237] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/B3591A62-B848-4256-B847-058294ACEAD6/Photos.app/www/index.html
+2015-10-26 16:29:20.834 Photos[21856:4090237] THREAD WARNING: ['Notification'] took '14.980957' ms. Plugin should use a background thread.
+2015-10-26 16:36:28.781 Photos[21856:4090237] THREAD WARNING: ['Notification'] took '13.607178' ms. Plugin should use a background thread.
+2015-10-26 16:43:25.749 Photos[21856:4118578] Camera.getPicture: source type 1 not available.
+2015-10-26 17:08:16.056 Photos[21946:4209201] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 17:08:16.057 Photos[21946:4209201] Multi-tasking -> Device: YES, App: YES
+2015-10-26 17:08:16.059 Photos[21946:4209201] Unlimited access to network resources
+2015-10-26 17:08:16.062 Photos[21946:4209201] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 17:08:16.097 Photos[21946:4209201] [CDVTimer][file] 4.339993ms
+2015-10-26 17:08:16.097 Photos[21946:4209201] [CDVTimer][TotalPluginStartup] 4.629970ms
+2015-10-26 17:08:16.202 Photos[21946:4209201] Resetting plugins due to page load.
+2015-10-26 17:08:16.304 Photos[21946:4209201] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/E2900211-D22B-4838-B570-D1A1467FD594/Photos.app/www/index.html
+2015-10-26 17:08:21.580 Photos[21946:4209201] THREAD WARNING: ['Notification'] took '14.362061' ms. Plugin should use a background thread.
+2015-10-26 17:24:07.296 Photos[21987:4256095] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 17:24:07.297 Photos[21987:4256095] Multi-tasking -> Device: YES, App: YES
+2015-10-26 17:24:07.301 Photos[21987:4256095] Unlimited access to network resources
+2015-10-26 17:24:07.305 Photos[21987:4256095] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 17:24:07.339 Photos[21987:4256095] [CDVTimer][file] 2.169013ms
+2015-10-26 17:24:07.340 Photos[21987:4256095] [CDVTimer][TotalPluginStartup] 2.485991ms
+2015-10-26 17:24:07.419 Photos[21987:4256095] Resetting plugins due to page load.
+2015-10-26 17:24:07.477 Photos[21987:4256095] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/B17998C6-6208-42FF-B41B-525E4C09D0D5/Photos.app/www/index.html
+2015-10-26 17:24:17.657 Photos[21987:4256095] THREAD WARNING: ['Notification'] took '13.377930' ms. Plugin should use a background thread.
+2015-10-26 17:25:27.938 Photos[22026:4263858] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-26 17:25:27.939 Photos[22026:4263858] Multi-tasking -> Device: YES, App: YES
+2015-10-26 17:25:27.941 Photos[22026:4263858] Unlimited access to network resources
+2015-10-26 17:25:27.943 Photos[22026:4263858] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-26 17:25:27.968 Photos[22026:4263858] [CDVTimer][file] 1.231015ms
+2015-10-26 17:25:27.968 Photos[22026:4263858] [CDVTimer][TotalPluginStartup] 1.439989ms
+2015-10-26 17:25:28.024 Photos[22026:4263858] Resetting plugins due to page load.
+2015-10-26 17:25:28.056 Photos[22026:4263858] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/69A9BC76-E3C8-4BEC-859B-61B8BC12B0B3/Photos.app/www/index.html
+2015-10-26 17:25:41.221 Photos[22026:4263858] THREAD WARNING: ['Notification'] took '14.660889' ms. Plugin should use a background thread.
+2015-10-26 17:32:34.202 Photos[22026:4263858] THREAD WARNING: ['Notification'] took '10.109131' ms. Plugin should use a background thread.
+2015-10-27 09:37:24.909 Photos[26055:5081636] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 09:37:24.911 Photos[26055:5081636] Multi-tasking -> Device: YES, App: YES
+2015-10-27 09:37:24.936 Photos[26055:5081636] Unlimited access to network resources
+2015-10-27 09:37:24.949 Photos[26055:5081636] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 09:37:25.317 Photos[26055:5081636] [CDVTimer][file] 12.434006ms
+2015-10-27 09:37:25.317 Photos[26055:5081636] [CDVTimer][TotalPluginStartup] 13.322949ms
+2015-10-27 09:37:25.875 Photos[26055:5081636] Resetting plugins due to page load.
+2015-10-27 09:37:26.008 Photos[26055:5081636] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/726D888F-5EDD-4CFB-87B2-028A51343BBF/Photos.app/www/index.html
+2015-10-27 10:49:46.822 Photos[26358:5141705] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 10:49:46.823 Photos[26358:5141705] Multi-tasking -> Device: YES, App: YES
+2015-10-27 10:49:46.826 Photos[26358:5141705] Unlimited access to network resources
+2015-10-27 10:49:46.829 Photos[26358:5141705] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 10:49:46.866 Photos[26358:5141705] [CDVTimer][file] 2.312958ms
+2015-10-27 10:49:46.866 Photos[26358:5141705] [CDVTimer][TotalPluginStartup] 2.557993ms
+2015-10-27 10:49:46.960 Photos[26358:5141705] Resetting plugins due to page load.
+2015-10-27 10:49:47.005 Photos[26358:5141705] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/5A5B667E-6802-46B2-BB46-9BD2CE3D92C2/Photos.app/www/index.html
+2015-10-27 10:50:24.111 Photos[26358:5141705] THREAD WARNING: ['Notification'] took '15.847168' ms. Plugin should use a background thread.
+2015-10-27 10:50:34.854 Photos[26358:5141705] THREAD WARNING: ['Notification'] took '10.405029' ms. Plugin should use a background thread.
+2015-10-27 10:51:04.691 Photos[26358:5141705] THREAD WARNING: ['Notification'] took '11.081055' ms. Plugin should use a background thread.
+2015-10-27 10:56:20.822 Photos[26416:5160576] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 10:56:20.823 Photos[26416:5160576] Multi-tasking -> Device: YES, App: YES
+2015-10-27 10:56:20.825 Photos[26416:5160576] Unlimited access to network resources
+2015-10-27 10:56:20.828 Photos[26416:5160576] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 10:56:20.865 Photos[26416:5160576] [CDVTimer][file] 1.782000ms
+2015-10-27 10:56:20.865 Photos[26416:5160576] [CDVTimer][TotalPluginStartup] 2.036989ms
+2015-10-27 10:56:20.989 Photos[26416:5160576] Resetting plugins due to page load.
+2015-10-27 10:56:21.040 Photos[26416:5160576] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/6F4D1763-9B3E-45A5-A7B7-54BAE21C4BBA/Photos.app/www/index.html
+2015-10-27 10:56:27.356 Photos[26416:5160576] THREAD WARNING: ['Notification'] took '15.562988' ms. Plugin should use a background thread.
+2015-10-27 10:56:36.535 Photos[26416:5160576] THREAD WARNING: ['Notification'] took '11.113770' ms. Plugin should use a background thread.
+2015-10-27 11:00:14.317 Photos[26461:5172882] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 11:00:14.318 Photos[26461:5172882] Multi-tasking -> Device: YES, App: YES
+2015-10-27 11:00:14.320 Photos[26461:5172882] Unlimited access to network resources
+2015-10-27 11:00:14.323 Photos[26461:5172882] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 11:00:14.355 Photos[26461:5172882] [CDVTimer][file] 1.744032ms
+2015-10-27 11:00:14.355 Photos[26461:5172882] [CDVTimer][TotalPluginStartup] 2.001047ms
+2015-10-27 11:00:14.453 Photos[26461:5172882] Resetting plugins due to page load.
+2015-10-27 11:00:14.501 Photos[26461:5172882] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/6BE0DED3-DFFA-4AAE-B576-1950B858D009/Photos.app/www/index.html
+2015-10-27 11:00:23.817 Photos[26461:5172882] THREAD WARNING: ['Notification'] took '13.703125' ms. Plugin should use a background thread.
+2015-10-27 11:00:33.560 Photos[26461:5172882] THREAD WARNING: ['Notification'] took '10.275879' ms. Plugin should use a background thread.
+2015-10-27 11:02:09.314 Photos[26503:5177943] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 11:02:09.315 Photos[26503:5177943] Multi-tasking -> Device: YES, App: YES
+2015-10-27 11:02:09.317 Photos[26503:5177943] Unlimited access to network resources
+2015-10-27 11:02:09.321 Photos[26503:5177943] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 11:02:09.356 Photos[26503:5177943] [CDVTimer][file] 1.846969ms
+2015-10-27 11:02:09.357 Photos[26503:5177943] [CDVTimer][TotalPluginStartup] 2.088010ms
+2015-10-27 11:02:09.451 Photos[26503:5177943] Resetting plugins due to page load.
+2015-10-27 11:02:09.502 Photos[26503:5177943] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/104040E2-9604-48A3-8D0B-1F12FFD91FE1/Photos.app/www/index.html
+2015-10-27 11:02:14.113 Photos[26503:5177943] THREAD WARNING: ['Notification'] took '14.223877' ms. Plugin should use a background thread.
+2015-10-27 11:02:22.582 Photos[26503:5177943] THREAD WARNING: ['Notification'] took '10.752930' ms. Plugin should use a background thread.
+2015-10-27 11:19:11.671 Photos[26540:5211511] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 11:19:11.671 Photos[26540:5211511] Multi-tasking -> Device: YES, App: YES
+2015-10-27 11:19:11.673 Photos[26540:5211511] Unlimited access to network resources
+2015-10-27 11:19:11.676 Photos[26540:5211511] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 11:19:11.709 Photos[26540:5211511] [CDVTimer][file] 3.039002ms
+2015-10-27 11:19:11.709 Photos[26540:5211511] [CDVTimer][TotalPluginStartup] 3.336966ms
+2015-10-27 11:19:11.864 Photos[26540:5211511] Resetting plugins due to page load.
+2015-10-27 11:19:11.930 Photos[26540:5211511] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/666E0787-B88A-4BD8-971A-04E22A223E30/Photos.app/www/index.html
+2015-10-27 11:19:15.104 Photos[26540:5211511] THREAD WARNING: ['Notification'] took '13.822998' ms. Plugin should use a background thread.
+2015-10-27 11:22:22.631 Photos[26584:5226164] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 11:22:22.632 Photos[26584:5226164] Multi-tasking -> Device: YES, App: YES
+2015-10-27 11:22:22.634 Photos[26584:5226164] Unlimited access to network resources
+2015-10-27 11:22:22.637 Photos[26584:5226164] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 11:22:22.671 Photos[26584:5226164] [CDVTimer][file] 1.995981ms
+2015-10-27 11:22:22.671 Photos[26584:5226164] [CDVTimer][TotalPluginStartup] 2.288997ms
+2015-10-27 11:22:22.761 Photos[26584:5226164] Resetting plugins due to page load.
+2015-10-27 11:22:22.810 Photos[26584:5226164] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/F8805117-7A6E-4B47-B857-0A224861DA5A/Photos.app/www/index.html
+2015-10-27 11:22:29.030 Photos[26584:5226164] THREAD WARNING: ['Notification'] took '15.295898' ms. Plugin should use a background thread.
+2015-10-27 11:25:07.838 Photos[26621:5233416] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 11:25:07.838 Photos[26621:5233416] Multi-tasking -> Device: YES, App: YES
+2015-10-27 11:25:07.840 Photos[26621:5233416] Unlimited access to network resources
+2015-10-27 11:25:07.843 Photos[26621:5233416] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 11:25:07.879 Photos[26621:5233416] [CDVTimer][file] 1.783967ms
+2015-10-27 11:25:07.879 Photos[26621:5233416] [CDVTimer][TotalPluginStartup] 2.045035ms
+2015-10-27 11:25:07.987 Photos[26621:5233416] Resetting plugins due to page load.
+2015-10-27 11:25:08.078 Photos[26621:5233416] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/680D48B8-E73D-4795-8C28-AB1C783DAF76/Photos.app/www/index.html
+2015-10-27 11:25:09.645 Photos[26621:5233416] THREAD WARNING: ['Notification'] took '16.823975' ms. Plugin should use a background thread.
+2015-10-27 11:26:17.291 Photos[26664:5236841] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 11:26:17.292 Photos[26664:5236841] Multi-tasking -> Device: YES, App: YES
+2015-10-27 11:26:17.294 Photos[26664:5236841] Unlimited access to network resources
+2015-10-27 11:26:17.297 Photos[26664:5236841] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 11:26:17.330 Photos[26664:5236841] [CDVTimer][file] 1.708984ms
+2015-10-27 11:26:17.331 Photos[26664:5236841] [CDVTimer][TotalPluginStartup] 1.969993ms
+2015-10-27 11:26:17.439 Photos[26664:5236841] Resetting plugins due to page load.
+2015-10-27 11:26:17.555 Photos[26664:5236841] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/2E667345-C891-46EA-9500-2DDACD12AF1A/Photos.app/www/index.html
+2015-10-27 11:26:21.088 Photos[26664:5236841] THREAD WARNING: ['Notification'] took '15.264160' ms. Plugin should use a background thread.
+2015-10-27 11:26:40.130 Photos[26664:5236841] THREAD WARNING: ['Notification'] took '10.747070' ms. Plugin should use a background thread.
+2015-10-27 11:30:13.209 Photos[26705:5245809] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 11:30:13.209 Photos[26705:5245809] Multi-tasking -> Device: YES, App: YES
+2015-10-27 11:30:13.211 Photos[26705:5245809] Unlimited access to network resources
+2015-10-27 11:30:13.214 Photos[26705:5245809] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 11:30:13.246 Photos[26705:5245809] [CDVTimer][file] 1.796007ms
+2015-10-27 11:30:13.246 Photos[26705:5245809] [CDVTimer][TotalPluginStartup] 2.053976ms
+2015-10-27 11:30:13.331 Photos[26705:5245809] Resetting plugins due to page load.
+2015-10-27 11:30:13.430 Photos[26705:5245809] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/AB593A8D-7797-4BAE-9656-1ACE79B7C670/Photos.app/www/index.html
+2015-10-27 11:30:36.592 Photos[26741:5247675] Apache Cordova native platform version 3.9.1 is starting.
+2015-10-27 11:30:36.593 Photos[26741:5247675] Multi-tasking -> Device: YES, App: YES
+2015-10-27 11:30:36.595 Photos[26741:5247675] Unlimited access to network resources
+2015-10-27 11:30:36.598 Photos[26741:5247675] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-10-27 11:30:36.628 Photos[26741:5247675] [CDVTimer][file] 1.769006ms
+2015-10-27 11:30:36.628 Photos[26741:5247675] [CDVTimer][TotalPluginStartup] 2.025008ms
+2015-10-27 11:30:36.710 Photos[26741:5247675] Resetting plugins due to page load.
+2015-10-27 11:30:36.757 Photos[26741:5247675] Finished load of: file:///Users/leon/Library/Developer/CoreSimulator/Devices/E7CD8167-9CE0-4D13-A1D7-6C3ABEE7A825/data/Containers/Bundle/Application/4CF7B121-5727-4D08-B18D-E36E814EC135/Photos.app/www/index.html
+2015-10-27 11:30:40.932 Photos[26741:5247675] THREAD WARNING: ['Notification'] took '13.735107' ms. Plugin should use a background thread.
+2015-10-27 11:30:54.593 Photos[26741:5247675] THREAD WARNING: ['Notification'] took '10.565186' ms. Plugin should use a background thread.
+2015-10-27 12:00:35.941 Photos[26741:5307173] Connection to assetsd was interrupted or assetsd died

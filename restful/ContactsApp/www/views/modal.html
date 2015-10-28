@@ -1,0 +1,27 @@
+<ion-modal-view>
+  <ion-header-bar class="bar-stable">
+    <button ng-click="closeModal()" class="button button-clear">Cancel</button>
+    <h1 class="title">Add new contact</h1>
+  </ion-header-bar>
+
+  <ion-content>
+
+    <div class="list">
+
+      <label class="item item-input">
+        <input ng-model="new.forename" type="text" placeholder="First Name">
+      </label>
+      <label class="item item-input">
+        <input ng-model="new.surname" type="text" placeholder="Last Name">
+      </label>
+      <label class="item item-input">
+        <input ng-model="new.number" type="text" placeholder="Number">
+      </label>
+      <button ng-click="save()" class="button button-block button-positive">Save</button>
+    </div>
+
+
+
+  </ion-content>
+
+</ion-modal-view>

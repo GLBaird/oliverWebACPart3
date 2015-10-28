@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="AngularShell">
+<head>
+    <meta charset="UTF-8">
+    <title>Angular Shell</title>
+
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular-route/angular-route.js"></script>
+</head>
+<body>
+
+    <h1>Angular Shell</h1>
+
+    <p>Please choose the view you want to see:</p>
+
+    <nav>
+        <a href="#/main">Main</a>
+        <a href="#/information">Information</a>
+    </nav>
+
+    <main>
+        <div ng-view></div>
+    </main>
+
+    <script src="js/app.js"></script>
+    <script src="controllers/MainController.js"></script>
+    <script src="controllers/InformationController.js"></script>
+</body>
+</html>

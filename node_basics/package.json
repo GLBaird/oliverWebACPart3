@@ -1,0 +1,13 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "description": "A simple demo",
+  "main": "app.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon Baird",
+  "license": "MIT"
+}
